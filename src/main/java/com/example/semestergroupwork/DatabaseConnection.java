@@ -1,13 +1,5 @@
 package com.example.semestergroupwork;
-/*
-    TEAM NAME: AZTECH
-    1. BAWAH ABUBA IBRAHIM - 10863084 - PROGRAMMER
-    2. BAWAH MANSURA-10911156- DATABASE ADMIN
-    3. GYENI PRISCILLA- 10865576-PROJECT MANAGER
-    4. HAYIBOR CINDY -10905039 -UI/UX DESIGNER
-    5. SAMUEL AMPONSAH - 10922693 - UI/UX DESIGNER
 
- */
 
 import java.sql.Connection;
 import java.sql.DriverManager;
